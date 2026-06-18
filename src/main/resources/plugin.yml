@@ -1,0 +1,12 @@
+name: BedWars2023-Compass
+version: ${project.version}
+main: com.tomkeuper.bedwars.addon.Compass
+depend: [ BedWars2023 ]
+authors: [ NemTheKoshka, Mher Zaqaryan ]
+api-version: 1.0
+description: Compass Addon for BedWars2023.
+
+softdepend:
+  - BedWars2023
+  - PlaceholderAPI
+  - Vault

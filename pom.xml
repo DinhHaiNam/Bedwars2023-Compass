@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>club.mher</groupId>
+    <groupId>com.tomkeuper.bedwars.addon</groupId>
     <artifactId>BedWars2023-Compass</artifactId>
     <version>1.0.0</version>
 
@@ -52,7 +52,8 @@
             <groupId>com.tomkeuper.bedwars</groupId>
             <artifactId>bedwars-plugin</artifactId>
             <version>5.0.0</version>
-            <scope>provided</scope>
+            <scope>system</scope>
+            <systemPath>${basedir}/libs/BedWars2023.jar</systemPath>
         </dependency>
         <dependency>
             <groupId>me.clip</groupId>
@@ -63,7 +64,7 @@
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
-            <version>1.18.20</version>
+            <version>1.18.38</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
