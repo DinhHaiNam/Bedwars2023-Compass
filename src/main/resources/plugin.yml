@@ -1,11 +1,11 @@
 main: club.mher.compass.Compass
-name: BedWars1058-Compass
-author: Mher Zaqaryan
+name: BedWars2023-Compass
+author: NemTheKoshka, Mher Zaqaryan
 version: ${project.version}
-api-version: '1.13'
-description: BedWars1058 Compass Addon By Mher Zaqaryan
+api-version: '1.0'
+description: BedWars2023 Compass Addon By NemTheKoshka forked from Mher Zaqaryan
 
 softdepend:
-  - BedWars1058
+  - BedWars2023
   - PlaceholderAPI
   - Vault

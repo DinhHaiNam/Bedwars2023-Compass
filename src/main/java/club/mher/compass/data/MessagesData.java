@@ -1,6 +1,6 @@
 package club.mher.compass.data;
 
-import com.andrei1058.bedwars.api.language.Language;
+import com.tomkeuper.bedwars.api.language.Language;
 import org.bukkit.configuration.file.YamlConfiguration;
 import org.bukkit.entity.Player;
 

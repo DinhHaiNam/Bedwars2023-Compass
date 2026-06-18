@@ -3,8 +3,8 @@ package club.mher.compass.menu.menus;
 import club.mher.compass.Compass;
 import club.mher.compass.data.MainConfig;
 import club.mher.compass.data.MessagesData;
-import com.andrei1058.bedwars.api.arena.IArena;
-import com.andrei1058.bedwars.api.arena.team.ITeam;
+import com.tomkeuper.bedwars.api.arena.IArena;
+import com.tomkeuper.bedwars.api.arena.team.ITeam;
 
 import club.mher.compass.menu.Menu;
 import club.mher.compass.menu.menus.communicationMenus.ResourceSelector;

@@ -5,9 +5,9 @@ import club.mher.compass.data.MainConfig;
 import club.mher.compass.data.MessagesData;
 import club.mher.compass.menu.Menu;
 import club.mher.compass.menu.menus.CommunicationsMenu;
-import com.andrei1058.bedwars.api.arena.IArena;
-import com.andrei1058.bedwars.api.arena.team.ITeam;
-import com.andrei1058.bedwars.api.language.Language;
+import com.tomkeuper.bedwars.api.arena.IArena;
+import com.tomkeuper.bedwars.api.arena.team.ITeam;
+import com.tomkeuper.bedwars.api.language.Language;
 
 import club.mher.compass.util.MessagingUtil;
 import club.mher.compass.util.NBTItem;

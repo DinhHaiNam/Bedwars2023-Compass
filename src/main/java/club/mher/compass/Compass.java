@@ -2,9 +2,9 @@ package club.mher.compass;
 
 import club.mher.compass.listener.QuickBuyListener;
 import club.mher.compass.support.bstats.Metrics;
-import com.andrei1058.bedwars.api.BedWars;
-import com.andrei1058.bedwars.api.arena.IArena;
-import com.andrei1058.bedwars.api.arena.team.ITeam;
+import com.tomkeuper.bedwars.api.BedWars;
+import com.tomkeuper.bedwars.api.arena.IArena;
+import com.tomkeuper.bedwars.api.arena.team.ITeam;
 import lombok.Getter;
 import club.mher.compass.command.CompassMenuCommand;
 import club.mher.compass.data.MainConfig;

@@ -2,8 +2,8 @@ package club.mher.compass.tasks;
 
 import club.mher.compass.Compass;
 import club.mher.compass.data.MessagesData;
-import com.andrei1058.bedwars.api.arena.IArena;
-import com.andrei1058.bedwars.api.arena.team.ITeam;
+import com.tomkeuper.bedwars.api.arena.IArena;
+import com.tomkeuper.bedwars.api.arena.team.ITeam;
 import club.mher.compass.util.TextUtil;
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;

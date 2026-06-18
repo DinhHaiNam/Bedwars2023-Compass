@@ -2,10 +2,10 @@ package club.mher.compass.command;
 
 import club.mher.compass.Compass;
 import club.mher.compass.menu.menus.MainMenu;
-import com.andrei1058.bedwars.api.arena.GameState;
-import com.andrei1058.bedwars.api.arena.IArena;
-import com.andrei1058.bedwars.api.command.ParentCommand;
-import com.andrei1058.bedwars.api.command.SubCommand;
+import com.tomkeuper.bedwars.api.arena.GameState;
+import com.tomkeuper.bedwars.api.arena.IArena;
+import com.tomkeuper.bedwars.api.command.ParentCommand;
+import com.tomkeuper.bedwars.api.command.SubCommand;
 import club.mher.compass.util.TextUtil;
 import net.md_5.bungee.api.chat.ClickEvent;
 import org.bukkit.command.CommandSender;

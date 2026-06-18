@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>club.mher</groupId>
-    <artifactId>BedWars1058-Compass</artifactId>
-    <version>1.4.3</version>
+    <artifactId>BedWars2023-Compass</artifactId>
+    <version>1.0.0</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -19,8 +19,8 @@
             <url>https://hub.spigotmc.org/nexus/content/repositories/snapshots/</url>
         </repository>
         <repository>
-            <id>andrei1058-repo</id>
-            <url>https://repo.andrei1058.dev/releases/</url>
+            <id>tomkeuper-repo</id>
+            <url>https://repo.tomkeuper.com/repository/releases/</url>
         </repository>
         <repository>
             <id>codemc-repo</id>
@@ -35,6 +35,10 @@
             <id>jitpack.io</id>
             <url>https://jitpack.io</url>
         </repository>
+        <repository>
+            <id>loohjames</id>
+            <url>https://repo.loohpjames.com/repository/</url>
+        </repository>
     </repositories>
 
     <dependencies>
@@ -45,9 +49,9 @@
             <scope>provided</scope>
         </dependency>
         <dependency>
-            <groupId>com.andrei1058.bedwars</groupId>
+            <groupId>com.tomkeuper.bedwars</groupId>
             <artifactId>bedwars-plugin</artifactId>
-            <version>22.7</version>
+            <version>5.0.0</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
@@ -71,7 +75,7 @@
     </dependencies>
 
     <build>
-        <finalName>BedWars1058-Compass-${project.version}</finalName>
+        <finalName>BedWars2023-Compass-${project.version}</finalName>
         <defaultGoal>clean package install</defaultGoal>
         <sourceDirectory>${basedir}/src/main/java</sourceDirectory>
         <resources>

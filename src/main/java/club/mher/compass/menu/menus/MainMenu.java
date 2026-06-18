@@ -4,9 +4,9 @@ import club.mher.compass.Compass;
 import club.mher.compass.data.MainConfig;
 import club.mher.compass.data.MessagesData;
 import club.mher.compass.menu.Menu;
-import com.andrei1058.bedwars.api.arena.GameState;
-import com.andrei1058.bedwars.api.arena.IArena;
-import com.andrei1058.bedwars.api.arena.team.ITeam;
+import com.tomkeuper.bedwars.api.arena.GameState;
+import com.tomkeuper.bedwars.api.arena.IArena;
+import com.tomkeuper.bedwars.api.arena.team.ITeam;
 
 import club.mher.compass.util.NBTItem;
 import org.bukkit.configuration.file.YamlConfiguration;

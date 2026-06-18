@@ -1,7 +1,7 @@
 package club.mher.compass.util;
 
 import club.mher.compass.Compass;
-import com.andrei1058.bedwars.api.server.VersionSupport;
+import com.tomkeuper.bedwars.api.server.VersionSupport;
 import org.bukkit.inventory.ItemStack;
 
 public class NBTItem {

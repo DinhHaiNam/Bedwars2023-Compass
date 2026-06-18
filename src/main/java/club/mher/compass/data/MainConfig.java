@@ -2,7 +2,7 @@ package club.mher.compass.data;
 
 import club.mher.compass.Compass;
 import club.mher.compass.menu.MenuType;
-import com.andrei1058.bedwars.api.configuration.ConfigManager;
+import com.tomkeuper.bedwars.api.configuration.ConfigManager;
 import club.mher.compass.util.ItemBuilder;
 import org.bukkit.configuration.file.YamlConfiguration;
 import org.bukkit.entity.Player;
